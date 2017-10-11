@@ -1,2 +1,2 @@
 # snp20
-snp-20 Jadyn
+snp-20 IBM_Eliza
